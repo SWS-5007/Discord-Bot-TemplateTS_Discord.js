@@ -66,3 +66,4 @@ for the splash screen there is a json in the root called `botConfig.json` which 
 
 - the `credits` option is for the `Thanks for using DjsBotTemplateTS!` text at the start.
 - the `splash` option is to automatically show when the client is started, the time and the websocket ping.
+  
